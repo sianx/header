@@ -1,0 +1,23 @@
+/*/features/*/
+
+.features{
+    &__thumb{}
+    &__content{
+        & h3{
+            font-size: 20px;
+            text-transform: capitalize;
+            font-weight: 700;
+        }
+        & a{
+            color: $black-soft-light;
+            font-size: 13px;
+            text-transform: uppercase;
+            font-weight: 700;
+            & i{
+                margin-left: 5px;
+                position: relative;
+                top: 1px;        
+            }
+        }
+    }
+}

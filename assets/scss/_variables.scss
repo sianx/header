@@ -1,0 +1,28 @@
+// Font Family
+$roboto: 'Roboto Condensed', sans-serif;
+
+
+// Colors ---------------
+$white: #ffffff;
+$black: #333;
+$grey:#f6f6f6;
+$theme-color: #f26957;
+$body-text-color: #666;
+$hr-border-color:#eceff8;
+
+
+// Heading Color
+$heading-color: #222;
+
+// Soft color
+$black-soft-light:#444;
+$black-soft:#878787;
+
+
+// Responsive Variables
+$laptop: 'only screen and (min-width: 1200px) and (max-width: 1600px)';
+$lg : 'only screen and (min-width: 992px) and (max-width: 1200px)';
+$md:'only screen and (min-width: 768px) and (max-width: 991px)';
+$xs:'(max-width: 767px)';
+$sm: 'only screen and (min-width: 576px) and (max-width: 767px)';
+
